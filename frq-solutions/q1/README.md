@@ -23,4 +23,3 @@ Loops may also be a problem when you go out of bounds. Without testing the code,
 Do not forget about Java Quick Reference! It is given to you on the exam with the stuff you **will** need on the exam. JQR has `Math.random()`, which is needed in part a.
 The only thing you need to remember is the formula. First, find the **range** and multiply it by Math.random(). Add 1 to the value, so you include all possibilities.\
 In the end we got: `((Math.random() * 40) + 1) //40 is the range in this case`
-## What I learned by doing this question...
